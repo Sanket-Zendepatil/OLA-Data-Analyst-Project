@@ -1,5 +1,5 @@
 # OLA Data Analyst Project by using Mysql and Power BI
-# Link of Project : https://github.com/Sanket-Zendepatil/OLA-Data-Analyst-Project/blob/main/OLA%20Data%20Analyst%20Project.pbix
+Link of Project : https://github.com/Sanket-Zendepatil/OLA-Data-Analyst-Project/blob/main/OLA%20Data%20Analyst%20Project.pbix
 
                                          # OLA Data Analyst Project
             # SQL Questions:
