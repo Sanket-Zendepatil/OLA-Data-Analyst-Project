@@ -1,4 +1,6 @@
 # OLA Data Analyst Project by using Mysql and Power BI
+## Link of Project 
+OLA Data Analyst Project.pbix
 
                                          #OLA Data Analyst Project
             #SQL Questions:
@@ -25,4 +27,5 @@
 7. Top 5 Customers by Total Booking Value
 8. Ride Distance Distribution Per Day 
 9. Driver Ratings Distribution 
-10. Customer vs. Driver Ratings 
+10. Customer vs. Driver Ratings
+    
