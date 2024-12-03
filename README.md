@@ -1,6 +1,5 @@
 # OLA Data Analyst Project by using Mysql and Power BI
-## Link of Project 
-OLA Data Analyst Project.pbix
+## Link of Project : OLA Data Analyst Project.pbix
 
                                          #OLA Data Analyst Project
             #SQL Questions:
