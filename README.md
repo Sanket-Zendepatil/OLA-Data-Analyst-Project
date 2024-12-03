@@ -1,8 +1,8 @@
 # OLA Data Analyst Project by using Mysql and Power BI
-## Link of Project : https://github.com/Sanket-Zendepatil/OLA-Data-Analyst-Project/blob/main/OLA%20Data%20Analyst%20Project.pbix
+# Link of Project : https://github.com/Sanket-Zendepatil/OLA-Data-Analyst-Project/blob/main/OLA%20Data%20Analyst%20Project.pbix
 
                                          #OLA Data Analyst Project
-            #SQL Questions:
+            ##SQL Questions:
             
 1. Retrieve all successful bookings: 
 2. Find the average ride distance for each vehicle type: 
@@ -15,7 +15,7 @@
 9. Calculate the total booking value of rides completed successfully: 
 10. List all incomplete rides along with the reason:
      
-          #Power BI Questions:
+          ##Power BI Questions:
     
 1. Ride Volume Over Time 
 2. Booking Status Breakdown 
@@ -27,4 +27,23 @@
 8. Ride Distance Distribution Per Day 
 9. Driver Ratings Distribution 
 10. Customer vs. Driver Ratings
-    
+
+## REPORTS 
+I have used One report on different page of Power BI
+## 1. Overall
+![overall](https://github.com/user-attachments/assets/1b7d4d59-c8bc-413f-9558-ca40acdf8a9e)
+
+## 2. Vehicle Type
+![Vehicle Type](https://github.com/user-attachments/assets/6c467b20-71c3-420a-af4d-eedcc00b3dd0)
+
+## 3. Revenue
+![Revenue](https://github.com/user-attachments/assets/8e441c50-c4b6-4176-8249-0a78b618f7ca)
+
+## 4. Cancellation
+![Cancellation](https://github.com/user-attachments/assets/7005c9aa-a840-402e-b519-cee10787b321)
+
+## 5. Ratings
+![Ratings](https://github.com/user-attachments/assets/ab907cc4-24f6-451e-9607-3b4b78df2b29)
+
+
+
