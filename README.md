@@ -1,8 +1,8 @@
 # OLA Data Analyst Project by using Mysql and Power BI
 # Link of Project : https://github.com/Sanket-Zendepatil/OLA-Data-Analyst-Project/blob/main/OLA%20Data%20Analyst%20Project.pbix
 
-                                         #OLA Data Analyst Project
-            ##SQL Questions:
+                                         # OLA Data Analyst Project
+            ## SQL Questions:
             
 1. Retrieve all successful bookings: 
 2. Find the average ride distance for each vehicle type: 
@@ -15,7 +15,7 @@
 9. Calculate the total booking value of rides completed successfully: 
 10. List all incomplete rides along with the reason:
      
-          ##Power BI Questions:
+          ## Power BI Questions:
     
 1. Ride Volume Over Time 
 2. Booking Status Breakdown 
