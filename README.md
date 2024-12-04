@@ -37,7 +37,8 @@ I have used One report on different pages of Power BI
 ![Vehicle Type](https://github.com/user-attachments/assets/6c467b20-71c3-420a-af4d-eedcc00b3dd0)
 
 ## 3. Revenue
-![Revenue](https://github.com/user-attachments/assets/8e441c50-c4b6-4176-8249-0a78b618f7ca)
+![Revenue](https://github.com/user-attachments/assets/49f84ad6-5836-4e15-b537-6f3bf2abe1a2)
+
 
 ## 4. Cancellation
 ![Cancellation](https://github.com/user-attachments/assets/7005c9aa-a840-402e-b519-cee10787b321)
